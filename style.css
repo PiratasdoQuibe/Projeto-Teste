@@ -3,5 +3,8 @@
     }
 
     body p{
-        color :rgb(rgb(109, 0, 0), rgb(0, 9, 128), rgb(255, 217, 0),);
+        color : rgb(255, 217, 0),);
+    }
+    body p#Cursantes{
+        color : rgb(rgb(102, 13, 62))
     }
